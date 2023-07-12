@@ -150,6 +150,9 @@ Click `call`
   <img src="https://i.ibb.co/QCScxyr/Capture.png" alt="Screen">
 </p>   
 
+Check Dashboard Infura If Requests Today Increase DONE 
+ <img src="https://i.ibb.co/ydVMMmy/9.png" alt="Screen">
+ 
 ## 5. Building an oracle with Python
 `Soon Update`
 
