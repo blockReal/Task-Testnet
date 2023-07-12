@@ -69,25 +69,6 @@ contract Test{
 
   - Goto Tab `sendRequest` Click Button `SendRequst` 
   ```
-  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Your Wallet"
-  ```
-  <p align="center">
-  <img src="https://i.ibb.co/17QpSj0/1.png" alt="Screen">
-  </p>
- - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestId`
-  <p align="center">
-  <img src="https://i.ibb.co/qyxJBQd/2.png" alt="Screen">
-  </p>
-- Copy `RequestId` Paste in `getData` Clik Button `getData`
-  <p align="center">
-  <img src="https://i.ibb.co/7YgKQvh/5.png" alt="Screen">
-  </p>
-
-
-
-## 3. Getting the ether symbol with CoinGecko API
-  - Goto Tab `sendRequest` Click Button `SendRequst` 
-  ```
   "https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD", "RAW,ETH,USD,USD,PRICE", "Your Wallet"
   ```
   <p align="center">
@@ -101,7 +82,26 @@ contract Test{
   <p align="center">
   <img src="https://i.ibb.co/7YgKQvh/5.png" alt="Screen">
   </p>
+- If it looks like the picture [Task DONE]
+  <p align="center">
+  <img src="https://i.ibb.co/Kx8w7N2/6.png" alt="Screen">
+  </p>
 
+
+## 3. Getting the ether symbol with CoinGecko API
+
+  - Goto Tab `sendRequest` Click Button `SendRequst` 
+  ```
+  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Your Wallet"
+  ```
+ - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestId`
+
+- Copy `RequestId` Paste in `getData` Clik Button `getData`
+
+- If it looks like the picture [Task DONE]
+  <p align="center">
+  <img src="https://i.ibb.co/Kx8w7N2/6.png" alt="Screen">
+  </p>
 
 ## 4. The importance of oracles
 1. Download Program Windows <a href="https://www.mediafire.com/file/nefidw4g0ar04ag/MushiSepoliaOracleV1.zip/file)https://www.mediafire.com/file/nefidw4g0ar04ag/MushiSepoliaOracleV1.zip/file">Link</a>
