@@ -67,7 +67,7 @@ contract Test{
 
 ## 2. Getting the price of ether in USD
 
-  - Goto Tab `sendRequest` Click Button `SendRequst` 
+  - Goto Tab `sendRequest` Input _url Click Button `SendRequst` 
   ```
   "https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD", "RAW,ETH,USD,USD,PRICE", "Your Wallet"
   ```
@@ -93,7 +93,7 @@ contract Test{
 
 ## 3. Getting the ether symbol with CoinGecko API
 
-  - Goto Tab `sendRequest` Click Button `SendRequst` 
+  - Goto Tab `sendRequest` Input _url Click Button `SendRequst` 
   ```
   "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Your Wallet"
   ```
