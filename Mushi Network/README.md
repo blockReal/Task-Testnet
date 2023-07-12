@@ -68,7 +68,8 @@ contract Test{
 ## 2. Getting the price of ether in USD
 
 <p align="center">
-  <img src="https://mushi.network/wp-content/uploads/2023/06/Screenshot-22.png" alt="Screen">
+  <img src="" alt="Screen">
+  <img src="" alt="Screen">
 </p>
 
 Goto Tab `sendRequest`
