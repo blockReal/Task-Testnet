@@ -103,13 +103,9 @@ _sender:
 ```
 Click `call`
 
-<p align="center">
-  <img src="https://i.ibb.co/17QpSj0/1.png" alt="Screen">
-</p>
 
-<p align="center">
-  <img src="https://i.ibb.co/qyxJBQd/2.png" alt="Screen">
-</p>
+
+
 
 ## 3. Getting the ether symbol with CoinGecko API
   - Goto Tab `sendRequest`
@@ -121,9 +117,11 @@ Click `call`
 
   Click Button `SendRequst` After Success
 
- - Goto Tab `getRequestID` Input `Your Wallet`
+ - Goto Tab `getRequestID` Input `Your Wallet` After Success
    After Success, Search & Copy 
- 
+ <p align="center">
+  <img src="https://i.ibb.co/17QpSj0/1.png" alt="Screen">
+</p>
   _requestId: 
   ```
   "1688858709"
@@ -137,6 +135,9 @@ Click `call`
   "Your Wallet"
   ```
   Click `call`
+  <p align="center">
+  <img src="https://i.ibb.co/qyxJBQd/2.png" alt="Screen">
+</p>
 
   
 
