@@ -69,7 +69,20 @@ _sender:
 ```
 "Your Wallet"
 ```
- Click `transact`
+Click `transact`
 
+ Goto Tab `getData`
+_requestId: 
+```
+"1688858465"
+```
+ Click `call`
 
+ Goto Tab `getRequestId`
+
+_sender: 
+```
+"Your Wallet"
+```
+Click `call`
 
