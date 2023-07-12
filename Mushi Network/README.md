@@ -68,6 +68,7 @@ contract Test{
 ## 2. Getting the price of ether in USD
 
 <p align="center">
+  <img src="https://i.ibb.co/XyfCMBK/4.png" alt="Screen">
   <img src="" alt="Screen">
 </p>
 
