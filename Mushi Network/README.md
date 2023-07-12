@@ -100,7 +100,7 @@ contract Test{
 
 - If it looks like the picture [Task DONE]
   <p align="center">
-  <img src="https://i.ibb.co/Kx8w7N2/6.png" alt="Screen">
+  <img src="https://i.ibb.co/HhMnV1v/3.png" alt="Screen">
   </p>
 
 ## 4. The importance of oracles
