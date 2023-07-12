@@ -52,6 +52,12 @@ contract Test{
 }
 
 ```
+
+<p align="center">
+  <img src="https://mushi.network/wp-content/uploads/2023/07/Screenshot-5-1536x758.png" alt="Mushi Logo">
+</p>
+
+
 5. Deploy Contract `Test.sol`
 
 ## 2. Getting the price of ether in USD
