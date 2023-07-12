@@ -156,6 +156,10 @@ Check Dashboard Infura If `Requests Today` Increase [Task DONE]
   <img src="https://i.ibb.co/ydVMMmy/9.png" alt="Screen">
 </p>
 
+<p align="center">
+  <img src="https://i.ibb.co/XsxBcp2/11.png" alt="Screen">
+</p>
+
 ## 5. Building an oracle with Python
 `Soon Update`
 
