@@ -55,8 +55,7 @@ contract Test{
 5. Deploy Contract `Test.sol`
 
 ## 2. Getting the price of ether in USD
-Goto Tab `sendRequest`
-
+##Goto Tab `sendRequest`##
 _url:
 ```
 "https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD"
@@ -71,14 +70,15 @@ _sender:
 ```
 Click `transact`
 
- Goto Tab `getData`
+##Goto Tab `getData`##
+ 
 _requestId: 
 ```
 "1688858465"
 ```
  Click `call`
 
- Goto Tab `getRequestId`
+##Goto Tab `getRequestId`##
 
 _sender: 
 ```
