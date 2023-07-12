@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <h1>Reward :   <a href="https://mushi.network/docs/airdrop-and-beta-phase-of-the-mushi-protocol/">Confirm</a></h1>
+</p>
+
+<p align="center">
   <h1>Task</h1>
 </p>
 
