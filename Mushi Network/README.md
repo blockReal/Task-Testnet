@@ -56,17 +56,18 @@ contract Test{
 
 ## 2. Getting the price of ether in USD
 Goto Tab `sendRequest`
-`_url:`
+
+_url:
 ```
-	"https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD"
+"https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD"
 ```
-`_path: `
+_path:
 ```
-	"RAW,ETH,USD,PRICE"
+"RAW,ETH,USD,PRICE"
 ```
-`_sender: `
+_sender:
 ```
-	"Your Wallet"
+"Your Wallet"
 ```
  Click `transact`
 
