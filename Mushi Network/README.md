@@ -54,13 +54,18 @@ contract Test{
 ```
 
 <p align="center">
-  <img src="https://mushi.network/wp-content/uploads/2023/07/Screenshot-5-1536x758.png" alt="Mushi Logo">
+  <img src="https://mushi.network/wp-content/uploads/2023/07/Screenshot-5-1536x758.png" alt="Screen">
 </p>
 
 
 5. Deploy Contract `Test.sol`
 
 ## 2. Getting the price of ether in USD
+
+<p align="center">
+  <img src="https://mushi.network/wp-content/uploads/2023/06/Screenshot-22.png" alt="Screen">
+</p>
+
 Goto Tab `sendRequest`
 
 _url:
