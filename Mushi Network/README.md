@@ -71,10 +71,6 @@ contract Test{
   <img src="https://i.ibb.co/XyfCMBK/4.png" alt="Screen">
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/WkxyPv1/8.png" alt="Screen">
-</p>
-
 Goto Tab `sendRequest`
 
 _url:
@@ -107,6 +103,10 @@ _sender:
 ```
 Click `call`
 
+<p align="center">
+  <img src="https://i.ibb.co/17QpSj0/1.png" alt="Screen">
+</p>
+
 ## 3. Getting the ether symbol with CoinGecko API
   - Goto Tab `sendRequest`
 
@@ -126,21 +126,23 @@ Click `call`
       }
      ```
 
-Goto Tab `getData` Input 
+ - Goto Tab `getData` Input 
  
-_requestId: 
-```
-"1688858709"
-```
+  _requestId: 
+  ```
+  "1688858709"
+  ```
  Click `call`
 
-Goto Tab `getRequestId`
+  Goto Tab `getRequestId`
 
-_sender: 
-```
-"Your Wallet"
-```
-Click `call`
+  _sender: 
+  ```
+  "Your Wallet"
+  ```
+  Click `call`
+
+  
 
 ## 4. The importance of oracles
 1. Download Program Windows <a href="https://www.mediafire.com/file/nefidw4g0ar04ag/MushiSepoliaOracleV1.zip/file)https://www.mediafire.com/file/nefidw4g0ar04ag/MushiSepoliaOracleV1.zip/file">Link</a>
