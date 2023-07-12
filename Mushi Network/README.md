@@ -125,4 +125,8 @@ Click `call`
 2. Run `MushiOracleV1.exe`
 3. Input Api Key Infura
 4. Input Wallet Address
+
+## 5. Building an oracle with Python
+`Soon Update`
+
    
