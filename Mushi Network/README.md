@@ -55,25 +55,20 @@ contract Test{
 5. Deploy Contract `Test.sol`
 
 ## 2. Getting the price of ether in USD
-Goto Tab 
-- `sendRequest`
+Goto Tab `sendRequest`
 `_url:`
-	```
-  "https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD"
-	```
+```
+	"https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD"
+```
 `_path: `
-	```
-  "RAW,ETH,USD,PRICE"
-	```
+```
+	"RAW,ETH,USD,PRICE"
+```
 `_sender: `
-	```
-  "Your Wallet"
-	```
+```
+	"Your Wallet"
+```
  Click `transact`
 
 
 
-
-1. Request <a href="https://faucets.chain.link/">Faucet</a>
-2. Create <a href="https://www.infura.io/">Api Key Sepolia</a>
-3. Open <a href="https://remix.ethereum.org">Remix</a>
