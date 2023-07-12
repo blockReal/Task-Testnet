@@ -69,6 +69,9 @@ contract Test{
 
 <p align="center">
   <img src="https://i.ibb.co/XyfCMBK/4.png" alt="Screen">
+</p>
+
+<p align="center">
   <img src="https://i.ibb.co/RBWXrfP/8.png" alt="Screen">
 </p>
 
