@@ -87,9 +87,8 @@ contract Test{
   
 - If it looks like the picture [Task DONE]
   <p align="center">
-  <img src="https://i.ibb.co/Kx8w7N2/6.png" alt="Screen">
+  <img src="https://i.ibb.co/xYRsWX0/9.png" alt="Screen">
   </p>
-
 
 ## 3. Getting the ether symbol with CoinGecko API
 
