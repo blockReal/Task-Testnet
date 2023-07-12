@@ -72,7 +72,7 @@ contract Test{
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/RBWXrfP/8.png" alt="Screen">
+  <img src="https://i.ibb.co/WkxyPv1/8.png" alt="Screen">
 </p>
 
 Goto Tab `sendRequest`
