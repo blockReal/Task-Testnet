@@ -67,79 +67,41 @@ contract Test{
 
 ## 2. Getting the price of ether in USD
 
-<p align="center">
-  <img src="https://i.ibb.co/XyfCMBK/4.png" alt="Screen">
-</p>
-
-Goto Tab `sendRequest`
-
-_url:
-```
-"https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD"
-```
-_path:
-```
-"RAW,ETH,USD,PRICE"
-```
-_sender:
-```
-"Your Wallet"
-```
-Click `transact`
-
-Goto Tab `getData`
- 
-_requestId: 
-```
-"1688858465"
-```
- Click `call`
-
-Goto Tab `getRequestId`
-
-_sender: 
-```
-"Your Wallet"
-```
-Click `call`
-
-
+  - Goto Tab `sendRequest` Click Button `SendRequst` 
+  ```
+  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Your Wallet"
+  ```
+  <p align="center">
+  <img src="https://i.ibb.co/17QpSj0/1.png" alt="Screen">
+  </p>
+ - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestId`
+  <p align="center">
+  <img src="https://i.ibb.co/qyxJBQd/2.png" alt="Screen">
+  </p>
+- Copy `RequestId` Paste in `getData` Clik Button `getData`
+  <p align="center">
+  <img src="https://i.ibb.co/HhMnV1v/3.png" alt="Screen">
+  </p>
 
 
 
 ## 3. Getting the ether symbol with CoinGecko API
-  - Goto Tab `sendRequest`
-
-  _url:
+  - Goto Tab `sendRequest` Click Button `SendRequst` 
   ```
-  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Your Wallet"
+  "https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD", "RAW,ETH,USD,USD,PRICE", "Your Wallet"
   ```
-
-  Click Button `SendRequst` After Success
-
- - Goto Tab `getRequestID` Input `Your Wallet` After Success
-   After Success, Search & Copy 
- <p align="center">
+  <p align="center">
   <img src="https://i.ibb.co/17QpSj0/1.png" alt="Screen">
-</p>
-  _requestId: 
-  ```
-  "1688858709"
-  ```
- Click `call`
-
-  Goto Tab `getRequestId`
-
-  _sender: 
-  ```
-  "Your Wallet"
-  ```
-  Click `call`
+  </p>
+ - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestId`
   <p align="center">
   <img src="https://i.ibb.co/qyxJBQd/2.png" alt="Screen">
-</p>
+  </p>
+- Copy `RequestId` Paste in `getData` Clik Button `getData`
+  <p align="center">
+  <img src="https://i.ibb.co/HhMnV1v/3.png" alt="Screen">
+  </p>
 
-  
 
 ## 4. The importance of oracles
 1. Download Program Windows <a href="https://www.mediafire.com/file/nefidw4g0ar04ag/MushiSepoliaOracleV1.zip/file)https://www.mediafire.com/file/nefidw4g0ar04ag/MushiSepoliaOracleV1.zip/file">Link</a>
