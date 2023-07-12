@@ -74,14 +74,17 @@ contract Test{
   <p align="center">
   <img src="https://i.ibb.co/17QpSj0/1.png" alt="Screen">
   </p>
- - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestId`
+  
+ - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestID`
   <p align="center">
   <img src="https://i.ibb.co/qyxJBQd/2.png" alt="Screen">
   </p>
+  
 - Copy `RequestId` Paste in `getData` Clik Button `getData`
   <p align="center">
   <img src="https://i.ibb.co/7YgKQvh/5.png" alt="Screen">
   </p>
+  
 - If it looks like the picture [Task DONE]
   <p align="center">
   <img src="https://i.ibb.co/Kx8w7N2/6.png" alt="Screen">
@@ -94,13 +97,14 @@ contract Test{
   ```
   "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Your Wallet"
   ```
- - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestId`
+  
+ - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestID`
 
 - Copy `RequestId` Paste in `getData` Clik Button `getData`
-
+  
 - If it looks like the picture [Task DONE]
   <p align="center">
-  <img src="https://i.ibb.co/HhMnV1v/3.png" alt="Screen">
+  <img src="https://i.ibb.co/Kx8w7N2/6.png" alt="Screen">
   </p>
 
 ## 4. The importance of oracles
