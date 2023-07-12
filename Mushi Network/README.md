@@ -108,23 +108,25 @@ _sender:
 Click `call`
 
 ## 3. Getting the ether symbol with CoinGecko API
-Goto Tab `sendRequest`
+  - Goto Tab `sendRequest`
 
-_url:
-```
-"https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en"
-```
-_path:
-```
-"1,symbol"
-```
-_sender:
-```
-"Your Wallet"
-```
-Click `transact`
+  _url:
+  ```
+  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Youe Wallet"
+  ```
 
-Goto Tab `getData`
+  Click Button `SendRequst` After Success
+
+  - Goto Tab `getRequestId`
+    Input "Youe Wallet"
+      ```
+      Copy : requestId
+      {
+  	  "uint256 _requestId": "1689171179"
+      }
+     ```
+
+Goto Tab `getData` Input 
  
 _requestId: 
 ```
