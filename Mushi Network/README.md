@@ -150,7 +150,7 @@ Click `call`
   <img src="https://i.ibb.co/QCScxyr/Capture.png" alt="Screen">
 </p>   
 
-Check Dashboard Infura If `Requests Today` Increase Task : DONE 
+Check Dashboard Infura If `Requests Today` Increase [Task DONE]
 
 <p align="center">
   <img src="https://i.ibb.co/ydVMMmy/9.png" alt="Screen">
