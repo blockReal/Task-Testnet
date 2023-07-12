@@ -80,7 +80,7 @@ contract Test{
   </p>
 - Copy `RequestId` Paste in `getData` Clik Button `getData`
   <p align="center">
-  <img src="https://i.ibb.co/HhMnV1v/3.png" alt="Screen">
+  <img src="https://i.ibb.co/7YgKQvh/5.png" alt="Screen">
   </p>
 
 
