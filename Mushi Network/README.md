@@ -15,7 +15,7 @@
 Mushi is a protocol completely open to everyone!
 Mushi is a completely commission-free protocol, for applicants and for oracles, that’s why we appreciate your support. Thanks to you, developers can access off-chain data for free.
 
-## 1 Sending Requests
+## 1. Sending Requests
 
 1. Open <a href="https://remix.ethereum.org">Remix</a>
 
