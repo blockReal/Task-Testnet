@@ -80,7 +80,7 @@ contract Test{
   <img src="https://i.ibb.co/qyxJBQd/2.png" alt="Screen">
   </p>
   
-- Copy `RequestId` Paste in `getData` Clik Button `getData`
+- Copy `RequestId` Paste in input `getData` Clik Button `getData`
   <p align="center">
   <img src="https://i.ibb.co/7YgKQvh/5.png" alt="Screen">
   </p>
@@ -100,7 +100,7 @@ contract Test{
   
  - Goto Tab `getRequestID` Input `Your Wallet` Clik Button `getRequestID`
 
-- Copy `RequestId` Paste in `getData` Clik Button `getData`
+- Copy `RequestId` Paste in input `getData` Clik Button `getData`
   
 - If it looks like the picture [Task DONE]
   <p align="center">
