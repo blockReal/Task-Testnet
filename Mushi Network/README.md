@@ -74,15 +74,15 @@ Goto Tab `sendRequest`
 
 _url:
 ```
-  "https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD"
+"https://min-api.cryptocompare.com/data/pricemultifull?fsyms=ETH&tsyms=USD"
 ```
 _path:
 ```
-  "RAW,ETH,USD,PRICE"
+"RAW,ETH,USD,PRICE"
 ```
 _sender:
 ```
-  "Your Wallet"
+"Your Wallet"
 ```
 Click `transact`
 
@@ -90,7 +90,7 @@ Goto Tab `getData`
  
 _requestId: 
 ```
-  "1688858465"
+"1688858465"
 ```
  Click `call`
 
@@ -98,7 +98,7 @@ Goto Tab `getRequestId`
 
 _sender: 
 ```
-  "Your Wallet"
+"Your Wallet"
 ```
 Click `call`
 
@@ -107,15 +107,15 @@ Goto Tab `sendRequest`
 
 _url:
 ```
-  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en"
+"https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en"
 ```
 _path:
 ```
-  "1,symbol"
+"1,symbol"
 ```
 _sender:
 ```
-  "Your Wallet"
+"Your Wallet"
 ```
 Click `transact`
 
@@ -123,7 +123,7 @@ Goto Tab `getData`
  
 _requestId: 
 ```
-  "1688858709"
+"1688858709"
 ```
  Click `call`
 
@@ -131,7 +131,7 @@ Goto Tab `getRequestId`
 
 _sender: 
 ```
-  "Your Wallet"
+"Your Wallet"
 ```
 Click `call`
 
