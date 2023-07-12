@@ -52,3 +52,4 @@ contract Test{
 }
 
 ```
+3. Deploy Contract `Test.sol`
