@@ -60,16 +60,14 @@ contract Test{
 
 <p align="center">
   <img src="https://i.ibb.co/JKPRd8f/1.png" alt="Screen">
-  <img src="" alt="Screen">
+  <img src="https://i.ibb.co/z75C0my/3.png" alt="Screen">
 </p>
-
 
 6. Deploy Contract `Test.sol`
 
 ## 2. Getting the price of ether in USD
 
 <p align="center">
-  <img src="" alt="Screen">
   <img src="" alt="Screen">
 </p>
 
