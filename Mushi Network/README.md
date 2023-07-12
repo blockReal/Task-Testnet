@@ -20,10 +20,11 @@ Mushi is a protocol completely open to everyone!
 Mushi is a completely commission-free protocol, for applicants and for oracles.
 
 ## 1. Sending Requests
-1. Request <a href="https://faucets.chain.link/">Faucet</a>
-2. Create <a href="https://www.infura.io/">Api Key Sepolia</a>
-3. Open <a href="https://remix.ethereum.org">Remix</a>
-4. Create Contract `Test.sol`
+1. Connet Metamask to Chain <a href="https://chainlist.org/chain/11155111">Sepolia</a>
+2. Request <a href="https://faucets.chain.link/">Faucet</a>
+3. Create <a href="https://www.infura.io/">Api Key Sepolia</a>
+4. Open <a href="https://remix.ethereum.org">Remix</a>
+5. Create Contract `Test.sol`
 ```
 / SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
@@ -62,7 +63,7 @@ contract Test{
 </p>
 
 
-5. Deploy Contract `Test.sol`
+6. Deploy Contract `Test.sol`
 
 ## 2. Getting the price of ether in USD
 
