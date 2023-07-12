@@ -112,13 +112,13 @@ Click `call`
 
   _url:
   ```
-  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Youe Wallet"
+  "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=10&page=1&sparkline=false&locale=en", "1,symbol", "Your Wallet"
   ```
 
   Click Button `SendRequst` After Success
 
   - Goto Tab `getRequestId`
-    Input "Youe Wallet"
+    Input "Your Wallet"
       ```
       Copy : requestId
       {
