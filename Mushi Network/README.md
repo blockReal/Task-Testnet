@@ -26,7 +26,7 @@ Mushi is a completely commission-free protocol, for applicants and for oracles.
 4. Open <a href="https://remix.ethereum.org">Remix</a>
 5. Create Contract `Test.sol`
 ```
-/ SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
     interface IMushi {
