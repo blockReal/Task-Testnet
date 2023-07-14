@@ -162,3 +162,6 @@ contract MyTestToken is ERC20, Ownable {
 }
 ```
 - **Deploy & Copy contract address import it to metamask**
+
+7. Add <a href="https://uniswap-v3.scroll.io/#/pool">Liquid</a> again
+
