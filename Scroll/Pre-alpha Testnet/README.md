@@ -10,7 +10,7 @@
 ![3](https://github.com/blockReal/Task-Testnet/assets/96944994/d463fc1f-f60b-4835-8d25-d5ad33287e7f)
 
 
-3. <a href="https://scroll.io/bridge">Bridge</a> Any Amount
+2. <a href="https://scroll.io/bridge">Bridge</a> Any Amount
 
 ![2](https://github.com/blockReal/Task-Testnet/assets/96944994/48dbae02-b883-42d8-92e4-cbc8153c5b6a)
 
