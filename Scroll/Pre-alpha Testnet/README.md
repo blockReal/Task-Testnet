@@ -167,3 +167,4 @@ contract MyTestToken is ERC20, Ownable {
 
 ![8](https://github.com/blockReal/Task-Testnet/assets/96944994/07ac94f9-a1bd-47a5-9996-84fc43a0aabd)
 
+![9](https://github.com/blockReal/Task-Testnet/assets/96944994/619f9892-669c-4dd4-be47-2afce3835e6c)
