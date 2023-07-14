@@ -161,3 +161,4 @@ contract MyTestToken is ERC20, Ownable {
     }
 }
 ```
+- **Deploy & Copy contract address import it to metamask**
