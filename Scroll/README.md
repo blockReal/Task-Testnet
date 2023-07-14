@@ -10,12 +10,13 @@
 </p>
 
 
-
-
 ## Scroll Description
 The Native zkEVM Scaling Solution for Ethereum
 Scroll is a zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools.
 
+<p align="center">
+  <h1>Reward : ??? </h1>
+</p>
 
 ## Task Testnet : <a href="https://github.com/blockReal/Task-Testnet/tree/main/Scroll/Pre-alpha%20Testnet">Scroll Alpha Testnet</a> 
 
