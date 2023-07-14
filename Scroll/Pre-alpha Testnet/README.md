@@ -134,5 +134,5 @@ contract ERC20 is IERC20 {
 - After Deploy Success Goto Tab `mint` input 1800000000000000000000 `transac`
 
 
-- copy contact address then import to metamask
+- copy contract address then import it to metamask
 
