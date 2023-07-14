@@ -142,3 +142,22 @@ contract ERC20 is IERC20 {
 
 ![7](https://github.com/blockReal/Task-Testnet/assets/96944994/f24b5b65-c7af-4c4e-905d-c3cb79b48303)
 
+6. Create <a href="https://remix.ethereum.org/">Contract</a> Please change `name token` and `name contract` and `supply`
+
+```
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.9;
+
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+import "@openzeppelin/contracts/access/Ownable.sol";
+
+contract MyTestToken is ERC20, Ownable {
+    constructor() ERC20("MyTestToken", "Test") {
+        _mint(msg.sender, 1000000000 * 10 ** decimals());
+    }
+
+    function mint(address to, uint256 amount) public onlyOwner {
+        _mint(to, amount);
+    }
+}
+```
