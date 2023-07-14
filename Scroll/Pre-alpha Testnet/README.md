@@ -140,3 +140,5 @@ contract ERC20 is IERC20 {
 
 ![6](https://github.com/blockReal/Task-Testnet/assets/96944994/4882f1d7-abe7-4432-a62b-a089827b01cc)
 
+![7](https://github.com/blockReal/Task-Testnet/assets/96944994/f24b5b65-c7af-4c4e-905d-c3cb79b48303)
+
