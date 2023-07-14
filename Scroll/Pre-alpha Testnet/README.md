@@ -131,4 +131,4 @@ contract ERC20 is IERC20 {
 
 ![4](https://github.com/blockReal/Task-Testnet/assets/96944994/588ad675-f73b-43b8-a9ae-3a51d28c3b8f)
 
-After Deploy Success Goto `mint` input 1800000000000000000000 `transac`
+After Deploy Success Goto Tab `mint` input 1800000000000000000000 `transac`
