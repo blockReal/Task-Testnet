@@ -175,7 +175,7 @@ contract MyTestToken is ERC20, Ownable {
 
 9. Please Interact with Contract
 
-10. Send us feedback
+10. Feedback
 
 ![11](https://github.com/blockReal/Task-Testnet/assets/96944994/4c18e405-38db-4c1b-b060-7bc852e22b8f)
 
