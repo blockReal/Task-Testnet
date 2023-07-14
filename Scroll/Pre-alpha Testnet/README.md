@@ -136,4 +136,7 @@ contract ERC20 is IERC20 {
 
 - copy contract address then import it to metamask
 
-5. Add  <a href="https://uniswap-v3.scroll.io/#/pool">Liquid</a> 
+5. Add <a href="https://uniswap-v3.scroll.io/#/pool">Liquid</a>
+
+![6](https://github.com/blockReal/Task-Testnet/assets/96944994/4882f1d7-abe7-4432-a62b-a089827b01cc)
+
