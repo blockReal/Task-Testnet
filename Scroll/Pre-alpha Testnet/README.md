@@ -165,3 +165,5 @@ contract MyTestToken is ERC20, Ownable {
 
 7. Add <a href="https://uniswap-v3.scroll.io/#/pool">Liquid</a> again
 
+![8](https://github.com/blockReal/Task-Testnet/assets/96944994/07ac94f9-a1bd-47a5-9996-84fc43a0aabd)
+
