@@ -136,3 +136,4 @@ contract ERC20 is IERC20 {
 
 - copy contract address then import it to metamask
 
+5. Add  <a href="https://uniswap-v3.scroll.io/#/pool">Liquid</a> 
