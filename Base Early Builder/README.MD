@@ -49,9 +49,3 @@ contract DeployBaseTest is ERC721, Ownable {
 ```
 
 - Deploy & Copy contract address import to metamask
-
-## 4. Mint NFT 
-
-<p align="center">
-  <img src="" alt="BASE">
-</p>
