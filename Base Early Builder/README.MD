@@ -48,7 +48,7 @@ contract DeployLineaTest is ERC721, Ownable {
 }
 ```
 
-- Deploy & Copy contract address import it to metamask
+- Deploy & Copy contract address import to metamask
 
 ## 4. Mint NFT 
 
