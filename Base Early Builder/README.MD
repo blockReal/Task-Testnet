@@ -1,4 +1,4 @@
-<p align="center"> <h1>BASE EARLY COMMEMORATIVE</h1></p>
+<p align="center"> <h1>BASE : EARLY COMMEMORATIVE</h1></p>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/108554348?s=200&v=4" alt="BASE">
 </p>
@@ -27,7 +27,6 @@ Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next
 ## 2. <a href="https://bridge.base.org/deposit">Bridge</a> Any Amount
 
 
-
 ## 3. Create <a href="https://remix.ethereum.org/">Contract</a> `Test.sol` `Change `Name Contract` and `Ticker`
 
 ```
@@ -46,6 +45,6 @@ contract DeployLineaTest is ERC721, Ownable {
 }
 ```
 
-	- **Deploy & Copy contract address import it to metamask**
+- Deploy & Copy contract address import it to metamask
 
 ## 4. Mint NFT 
