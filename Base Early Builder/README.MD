@@ -26,8 +26,11 @@ Base is a secure, low-cost, builder-friendly Ethereum L2 built to bring the next
 
 ## 2. <a href="https://bridge.base.org/deposit">Bridge</a> Any Amount
 
+<p align="center">
+  <img src="https://i.ibb.co/nLQh7wG/1.png" alt="BASE">
+</p>
 
-## 3. Create <a href="https://remix.ethereum.org/">Contract</a> `Test.sol` `Change `Name Contract` and `Ticker`
+## 3. Create <a href="https://remix.ethereum.org/">Contract</a> `Test.sol` Change `Name Contract` and `Ticker`
 
 ```
 // SPDX-License-Identifier: MIT
@@ -48,3 +51,7 @@ contract DeployLineaTest is ERC721, Ownable {
 - Deploy & Copy contract address import it to metamask
 
 ## 4. Mint NFT 
+
+<p align="center">
+  <img src="" alt="BASE">
+</p>
