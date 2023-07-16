@@ -60,7 +60,7 @@ contract FunctionTypes {
     }
 }
 ```
-## 4. Create <a href="https://remix.ethereum.org/">Contract</a> `TestTokenDeploy.sol`
+## 4. Create <a href="https://remix.ethereum.org/">Contract</a> `ERC20.sol`
 ```
 // SPDX-License-Identifier: MIT
 // WTF Solidity by 0xAA
