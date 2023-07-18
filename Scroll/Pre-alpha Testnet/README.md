@@ -179,8 +179,16 @@ contract MyTestToken is ERC20, Ownable {
 
 ![11](https://github.com/blockReal/Task-Testnet/assets/96944994/4c18e405-38db-4c1b-b060-7bc852e22b8f)
 
+## 11. Join all Social Media
+
+<a href="https://twitter.com/Scroll_ZKP">Twitter</a>
+
+<a href="https://twitter.com/BuildWithScroll">Ecosystem</a>
+
 <a href="https://discord.com/invite/scroll">Discord</a>
 
 <a href="https://github.com/scroll-tech">Github</a>
+
+<a href="https://guild.xyz/scrollzkp">Guild</a>
 
 
